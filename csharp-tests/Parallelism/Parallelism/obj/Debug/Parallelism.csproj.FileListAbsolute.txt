@@ -1,0 +1,7 @@
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\bin\Debug\Parallelism.exe.config
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\bin\Debug\Parallelism.exe
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\bin\Debug\Parallelism.pdb
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\obj\Debug\Parallelism.csprojResolveAssemblyReference.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\obj\Debug\Parallelism.csproj.CoreCompileInputs.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\obj\Debug\Parallelism.exe
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\Parallelism\Parallelism\obj\Debug\Parallelism.pdb
