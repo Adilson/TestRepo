@@ -1,0 +1,13 @@
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\SettingsTest.deps.json
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\SettingsTest.runtimeconfig.json
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\SettingsTest.runtimeconfig.dev.json
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\SettingsTest.dll
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.csprojResolveAssemblyReference.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.csproj.CoreCompileInputs.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.AssemblyInfoInputs.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.AssemblyInfo.cs
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\SettingsTest.pdb
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.dll
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\obj\Debug\netcoreapp2.0\SettingsTest.pdb
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\CoreSettings\SettingsTest\SettingsTest\bin\Debug\netcoreapp2.0\environmentsettings.json
