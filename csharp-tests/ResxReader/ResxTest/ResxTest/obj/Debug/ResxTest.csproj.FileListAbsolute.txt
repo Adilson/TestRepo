@@ -1,0 +1,9 @@
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\bin\Debug\Test1\Sub1\Resource1.Designer.cs
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\bin\Debug\Test1\Sub1\Resource1.resx
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\bin\Debug\ResxTest.exe.config
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\bin\Debug\ResxTest.exe
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\bin\Debug\ResxTest.pdb
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\obj\Debug\ResxTest.csprojAssemblyReference.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\obj\Debug\ResxTest.csproj.CoreCompileInputs.cache
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\obj\Debug\ResxTest.exe
+C:\Projetos\Adilson-GitHub\TestRepo\csharp-tests\ResxReader\ResxTest\ResxTest\obj\Debug\ResxTest.pdb
